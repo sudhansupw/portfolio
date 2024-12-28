@@ -12,7 +12,7 @@ function Home() {
             </h1>
             <p>I have a passion for web
                 development and have honed my skills in HTML, CSS, Tailwind CSS,
-                JavaScript & React. I'm enthusiastic about exploring
+                JavaScript, Appwrite, Firebase, Redux & React. I'm enthusiastic about exploring
                 new technologies and solving real-world problems through innovative
                 solutions. I'm excited about the opportunity to contribute to meaningful
                 projects and continue growing as a developer.</p>

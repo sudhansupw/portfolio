@@ -21,7 +21,7 @@ function About() {
                   Frontend developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                A passionate and enthusiastic fresher front-end developer skilled in HTML, CSS, JavaScript, and React. Adept at creating responsive, user-friendly web interfaces with a strong focus on clean design and functionality. Eager to learn, adapt, and contribute to building impactful digital experiences while growing professionally in a dynamic development environment.
+                A passionate and enthusiastic fresher front-end developer skilled in HTML, CSS, JavaScript, Appwrite, Firebase, Redux & React. Adept at creating responsive, user-friendly web interfaces with a strong focus on clean design and functionality. Eager to learn, adapt, and contribute to building impactful digital experiences while growing professionally in a dynamic development environment.
                 </p>
               </span>
         </div>
