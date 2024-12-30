@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaCss3,  FaHtml5, FaJs, FaReact,} from "react-icons/fa";
+import { FaCss3,  FaHtml5, FaJs, FaReact, FaGithub} from "react-icons/fa";
 import { RiTailwindCssFill} from "react-icons/ri"
 import { SiAppwrite, SiFirebase, SiRedux  } from "react-icons/si";
 function Skills() {
@@ -11,18 +11,27 @@ function Skills() {
             <span className="p-3 bg-zinc-950 flex items-center rounded-2xl">
             <FaHtml5 color="#E34F26" size={50} />
             </span>
+
             <span className="p-3 bg-zinc-950 flex items-center rounded-2xl">
             <FaCss3 color="#1572B6" size={50} />
             </span>
+
             <span className="p-3 bg-zinc-950 flex items-center rounded-2xl">
             < RiTailwindCssFill color="#1572B6" size={50} />
             </span>
+
             <span className="p-3 bg-zinc-950 flex items-center rounded-2xl">
             <FaJs color="#61DAFB" size={50} />
             </span>
+
+            <span className="p-3 bg-zinc-950 flex items-center rounded-2xl">
+            <FaGithub color="#61DAFB" size={50} />
+            </span>
+
             <span className="p-3 bg-zinc-950 flex items-center rounded-2xl">
             <FaReact color="#F7DF1E" size={50} />
             </span>
+
 
             <span className="p-3 bg-zinc-950 flex items-center rounded-2xl">
             <SiAppwrite color="#F7DF1E" size={50} />
